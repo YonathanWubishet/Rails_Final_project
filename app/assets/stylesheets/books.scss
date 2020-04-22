@@ -1,0 +1,26 @@
+// Place all the styles related to the Books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+* {
+    margin: 25px;
+}
+
+body {
+    /* The image used */
+    background-image: url('book_z.jpg');
+  
+    /* Full height */
+    height: 100%;
+    width: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position-x: 50%;
+    background-position-y: 0%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+h1 {text-indent: 5%;}
+h1 {text-shadow: 2px 2px rgb(29, 15, 3);}
+p {text-indent: 20%;}
